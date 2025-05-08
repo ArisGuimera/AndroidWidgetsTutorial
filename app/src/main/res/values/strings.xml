@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WidgetsTutorial</string>
+    <string name="quote_widget_description">Es un super widget de citas</string>
+    <string name="pomodoro_widget_description">Calcula y mejora tu tiempo</string>
+</resources>
